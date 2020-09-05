@@ -1,4 +1,4 @@
-# Change background color
+# Hex colors
 
 > Click on the button and the background color will change and show you the hex color
 
